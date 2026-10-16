@@ -1,0 +1,24 @@
+{
+  "short_name": "Sovereignty",
+  "name": "Sovereignty Protocol Fitness HUD",
+  "description": "Ultra-clean, premium fitness self-discipline game interface and Sovereign Coach chat.",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#090d16",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}

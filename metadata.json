@@ -1,0 +1,6 @@
+{
+  "name": "Sovereignty Protocol",
+  "description": "Executive Fitness Protocol & Deep Calibration Wizard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
